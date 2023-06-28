@@ -12,5 +12,9 @@
 	<a href="<%= request.getContextPath() %>/miroo" >miroo</a>
 	<a href = "<%=request.getContextPath()%>/justinajin">justinajin</a>
 
+	<h2>한미루</h2>
+	<h2>신희진</h2>
+	<h2>정민희</h2>
+	
 </body>
 </html>
