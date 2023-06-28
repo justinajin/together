@@ -8,17 +8,18 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * Servlet implementation class Fighting
+ * Servlet implementation class MinheeServlet
  */
-@WebServlet("/fighting")
-public class FightingServlet extends HttpServlet {
+@WebServlet("/minhee")
+public class MinheeServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 
 	/**
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		response.getWriter().append("🥳🥳🥳우리 모두 화이팅 해보자구!! 아자아자 화이팅!!🥳🥳🥳"); 
+		// TODO Auto-generated method stub
+		response.getWriter().append("민희화이팅!");
 	}
 
 }
