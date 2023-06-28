@@ -7,7 +7,10 @@
 <title>Together App</title>
 </head>
 <body>
+
 	<h1>Together App</h1>
 	<a href="<%= request.getContextPath() %>/miroo" >miroo</a>
+	<a href = "<%=request.getContextPath()%>/justinajin">justinajin</a>
+
 </body>
 </html>
