@@ -7,8 +7,7 @@
 <title>Together App</title>
 </head>
 <body>
-
-<h1>Together App</h1>
-
+	<h1>Together App</h1>
+	<a href="<%= request.getContextPath() %>/miroo" >miroo</a>
 </body>
 </html>
