@@ -19,7 +19,7 @@ public class JustinajinServlet2 extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
-		response.getWriter().append("미루야 안뇽뇽뇽");
+		response.getWriter().append("MIROO HIIIII");
 	}
 
 }
