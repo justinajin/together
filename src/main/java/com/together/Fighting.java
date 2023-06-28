@@ -18,7 +18,7 @@ public class Fighting extends HttpServlet {
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		response.getWriter().append("🥳🥳🥳우리 모두 화이팅 해보자구!! 아자아자 화이팅!!🥳🥳🥳");
+		response.getWriter().append("🥳🥳🥳우리 모두 화이팅 해보자구!! 아자아자 화이팅!!🥳🥳🥳"); 
 	}
 
 }
