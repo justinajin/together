@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletResponse;
  * Servlet implementation class Fighting
  */
 @WebServlet("/fighting")
-public class Fighting extends HttpServlet {
+public class FightingHaeyaziServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 
 	/**
